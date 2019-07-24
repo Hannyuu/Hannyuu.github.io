@@ -17,4 +17,3 @@ tags:
 ## Gaussian Process
 Gaussian Process:
 [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
-https://guides.github.com/features/mastering-markdown/
