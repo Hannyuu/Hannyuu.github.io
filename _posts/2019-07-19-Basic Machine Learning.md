@@ -11,8 +11,9 @@ tags:
 ---
 
 ## Gaussian Process
-Gaussian Process:
 [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
+
+[An intuitive guide to Gaussian Processhttps://towardsdatascience.com/an-intuitive-guide-to-gaussian-processes-ec2f0b45c71d](https://towardsdatascience.com/an-intuitive-guide-to-gaussian-processes-ec2f0b45c71d)
 ## Bayesian Neural Network
 [Need for Bayesian Neural Networks](https://medium.com/neuralspace/bayesian-neural-network-series-post-1-need-for-bayesian-networks-e209e66b70b2)
 
