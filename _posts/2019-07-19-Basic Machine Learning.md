@@ -22,3 +22,4 @@ tags:
 ## Variational autoencoder 
 [Tutorial - What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 
+[不错的VAE中文解释blog](https://kexue.fm/archives/5253)
