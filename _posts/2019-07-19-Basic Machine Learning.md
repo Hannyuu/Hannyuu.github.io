@@ -23,3 +23,7 @@ tags:
 [Tutorial - What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 
 [不错的VAE中文解释blog](https://kexue.fm/archives/5253)
+
+## AutoMachine Learning 
+[TPOT-auto Machine learning in Python](https://towardsdatascience.com/tpot-automated-machine-learning-in-python-4c063b3e5de9)
+
